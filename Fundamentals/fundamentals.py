@@ -23,7 +23,6 @@ if boolns:
     print("then add the money")
 else:
     print("added the work in it")
-
 # example 2
 
 if age> min:
