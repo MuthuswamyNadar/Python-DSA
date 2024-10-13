@@ -35,8 +35,32 @@ for laps in Laptops:
     print(laps)
 
 
+i=5
+while i<10:
+    print(i)
+    i+=1
 
+for i in range(5):
+    while i==5:
+        break
+    print(i)
 
+for i in range(5):
+    while i==5:
+        continue
+    print(i)
+
+for i in range(5):
+    while i==5:
+        pass
+    print(i)
+
+# functions in python
+
+def swamy(name):
+    print(f"you name is {name} ")
+
+swamy("Muthuswamy")
 
 
 
