@@ -24,20 +24,7 @@ This repository contains my learning journey and projects from the **PW Skills D
 - ✅ **Assignments**  
   Included Excel-based analysis, Python scripts, Power BI dashboards, and ML models.
 
----
 
-## 📷 Screenshots
-
-### Python Data Analysis
-![Python](https://raw.githubusercontent.com/plotly/datasets/master/images/iris2.png)
-
-### Excel Dashboard
-![Excel](https://www.exceldashboardtemplates.com/wp-content/uploads/2016/04/Project-Dashboard-Excel-Template.png)
-
-### Power BI Report
-![Power BI](https://radacad.com/wp-content/uploads/2019/07/image-23.png)
-
----
 
 ## 📁 Repository Structure
 
